@@ -1,6 +1,6 @@
 # Welcome to Open Source Contributions 🍉
 
-<p>🚨 <b>ANNOUNCEMENT:</b> We've updated the Open Source Contribution List to a new home: <br/>
+<p>🚨 gpt <b>ANNOUNCEMENT:</b> We've updated the Open Source Contribution List to a new home: <br/>
     Please make all your pull requests here (LATEST): 
     <br/>
     https://github.com/alisolanki/OpenSource-Github-Wall
@@ -25,7 +25,7 @@
 
 - Add your own details to the contributor list
 - Make a Pull Request
-- [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)
+- [Steps to add yourself to the contributers list](https://github.com/alisolanki/Welcome-to-Open-Source/blob/master/CONTRIBUTING.md)....
 
 <p align="center">
     <a href="https://www.twitter.com/alisolankii">

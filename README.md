@@ -1,6 +1,6 @@
 # Welcome to Open Source Contributions 🍉
 
-<p>🚨 gpt <b>ANNOUNCEMENT:</b> We've updated the Open Source Contribution List to a new home: <br/>
+<p>🚨 gpt ...<b>ANNOUNCEMENT:</b> We've updated the Open Source Contribution List to a new home: <br/>
     Please make all your pull requests here (LATEST): 
     <br/>
     https://github.com/alisolanki/OpenSource-Github-Wall
